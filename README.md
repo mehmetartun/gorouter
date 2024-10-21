@@ -1,16 +1,15 @@
-# gorouter
+# Go Router Tutorial
 
-A new Flutter project.
+This project with its tags will form the base for following the videos in YouTube 
+at [Flutter Go Router Tutorial](https://www.youtube.com/playlist?list=PLyK2hHQDMu7BxJxC6B7m26YVMcCkXOsuQ)
 
-## Getting Started
+## Part 1 - Simple Go Router implementation
 
-This project is a starting point for a Flutter application.
+In this part, we do the most basic implementation of a `go_router` where we have 3 pages `home`, `profile`, and `login` at the same level and `login` page has two more pages that are pushed on it `signUp` and `forgot`.
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](assets/images/simple_go_router_implementation.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This version will be designated as `Part1` in the tags.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
